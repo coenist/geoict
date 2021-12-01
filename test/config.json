@@ -1,8 +1,8 @@
-{
+n {
   "description": {
     "names": {
       "en": "The Ghent University prime number",
-      "nl": "Het priemgetal van de UGent"
+      "nl": "Het priemgetal van de UGent eigen versie"
     }
   },
   "evaluation": {
